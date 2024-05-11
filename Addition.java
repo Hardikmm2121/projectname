@@ -5,7 +5,7 @@ public class Addition {
 	public static void main(String[] args) {
 		
 		System.out.println("Addition of 3 and 7 is " + (3 + 7));
-		
+		//modify for dev branch testing
 		//This is for sum the number's digit
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Please enter size of the number");
